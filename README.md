@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Django**
 
 ## My skills:
-![](https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+<img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif width="100" height="100">
 ![](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
 ![]([https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif))
 ![]([[https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif)](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif))
