@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=023E8A&background=023E8A39&center=true&vCenter=true&width=435&lines=Salom%2C+men+Jalolman;Va+men+hozirda+ThemeForestda+ishlayman;Tashrifingiz+uchun+rahmat!)]([https://github.com/nurjalolnur123])
 
 ### Salom hammaga 👋
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 - 🔭 Men **ThemeForest**da ishlayman
 - 🌱 Hozirda **Django** ni o'rganmoqdaman
