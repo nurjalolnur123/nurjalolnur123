@@ -1,5 +1,7 @@
 🇺🇸 **ENG** 🇺🇸
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=023E8A&background=023E8A39&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jalol;And+I'm+currently+working+on+ThemeForest;Thank+you+for+visiting!)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 
@@ -7,6 +9,8 @@
 - 🌱 I’m currently learning **Django**
 
 🇺🇿 **UZ** 🇺🇿
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=023E8A&background=023E8A39&center=true&vCenter=true&width=435&lines=Salom%2C+men+Jalolman;Va+men+hozirda+ThemeForestda+ishlayman;Tashrifingiz+uchun+rahmat!)](https://git.io/typing-svg)
 
 ### Salom hammaga 👋
 
