@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Django**
 
 ## My skills:
-<img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif width="100" height="100">
 ![](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
 ![]([https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif))
 ![]([[https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif)](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif))
@@ -19,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=023E8A&background=023E8A39&center=true&vCenter=true&width=435&lines=Salom%2C+men+Jalolman;Va+men+hozirda+ThemeForestda+ishlayman;Tashrifingiz+uchun+rahmat!)]([https://github.com/nurjalolnur123])
 
 ### Salom hammaga 👋
-
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 - 🔭 Men **ThemeForest**da ishlayman
 - 🌱 Hozirda **Django** ni o'rganmoqdaman
