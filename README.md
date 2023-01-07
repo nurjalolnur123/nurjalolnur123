@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning **Django**
 
 ## My skills:
-![](https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif = 100x100)
-![](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif = 100x100)
-![]([https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif) = 100x100)
-![]([[https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif)](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif) = 100x100)
-![]([https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif) = 100x100)
+![](https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+![]([https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif))
+![]([[https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://maxmautner.com/public/images/django.gif)](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif))
+![]([https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif))
 
 🇺🇿 **UZ** 🇺🇿
 
