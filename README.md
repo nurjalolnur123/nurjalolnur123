@@ -19,8 +19,10 @@
   <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" data-canonical-src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" height="200" />
   
   <img src="https://maxmautner.com/public/images/django.gif" data-canonical-src="https://maxmautner.com/public/images/django.gif" width="200" height="200" />
-  
+ 
 </div>
+
+![Nurjalol's GitHub stats](https://github-readme-stats.vercel.app/api?nurjalolnur=anuraghazra&show_icons=true&theme=dracula)
 
 🇺🇿 **UZ** 🇺🇿
 
