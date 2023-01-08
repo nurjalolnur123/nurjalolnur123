@@ -22,7 +22,8 @@
  
 </div>
 
-![Nurjalol's GitHub stats](https://github-readme-stats.vercel.app/api?nurjalolnur=anuraghazra&show_icons=true&theme=dracula)
+![Nurjalol's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurjalolnur&show_icons=true&theme=dracula)
+
 
 🇺🇿 **UZ** 🇺🇿
 
